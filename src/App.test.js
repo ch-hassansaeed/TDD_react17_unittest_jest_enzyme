@@ -3,15 +3,6 @@ import App from './App';
 import { mount } from "enzyme";
 
 
-// test('renders learn react link', () => {
-//   render(<App />);
-//   const linkElement = screen.getByText(/hassan/i);
-//   expect(linkElement).toBeInTheDocument();
-// });
-
-
-
-
 describe("Counter Testing", () => {
   let wrapper;
   beforeEach(() => {
