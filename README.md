@@ -1,3 +1,10 @@
+# TDD React17 Unit Test Using Jest Enzyme
+
+
+## Dependencies 
+### `npm install --save-dev enzyme @wojtekmaj/enzyme-adapter-react-17`
+### `npm run test`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
